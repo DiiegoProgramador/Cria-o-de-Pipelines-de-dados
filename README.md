@@ -18,7 +18,6 @@ O objetivo deste projeto foi criar um pipeline utilizando ferramentas do Azure, 
 ![Print 2](https://github.com/user-attachments/assets/cfce3f6d-3008-4800-a7cb-7aa5aaff4a07)
 ![Print 3](https://github.com/user-attachments/assets/3f9d6e00-b688-4f24-b531-0f9914787c35)
 ![Captura de tela 2025-05-08 135408](https://github.com/user-attachments/assets/253eda04-0103-48f6-a9b5-b8a0c22cf60b)
-![Sem título](https://github.com/user-attachments/assets/dddcf587-6bd4-4a6d-85a5-8366c056bf94)
 ![Captura de tela 2025-05-08 143653](https://github.com/user-attachments/assets/dbff09e4-35f0-4186-bd45-126cc75c3319)
 ![Captura de tela 2025-05-08 143622](https://github.com/user-attachments/assets/b86b913f-6f30-4f38-93c2-e08aad988c0d)
 ![Captura de tela 2025-05-08 143301](https://github.com/user-attachments/assets/bac466ee-2f16-4e91-af17-b8a2578e652f)
